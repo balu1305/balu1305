@@ -4,10 +4,6 @@ Place this README.md in a repository named exactly `balu1305` (i.e., github.com/
 
 <!-- Hero banner: replace the URL with your own hosted tech-themed image -->
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=80" alt="Data Science & CS Banner" width="100%"/>
-</p>
-
 # 👋 Hi, I’m **Tatta Vijaya Balaji** (`@balu1305`)
 
 🎓 **Electronics & Communication Engineering @ IIT Guwahati**
