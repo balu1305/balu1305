@@ -75,4 +75,21 @@ Place this README.md in a repository named exactly `balu1305` (i.e., github.com/
 
 ---
 
+<details>
+  <summary>⚙️ Widgets & Badges</summary>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/rzashakeri/beautify-github-profile/master/spotify-data-card.svg" alt="Spotify Data" width="300"/>
+    <img src="https://raw.githubusercontent.com/rzashakeri/beautify-github-profile/master/todoist-stat.png" alt="Todoist Stats" width="300"/>
+  </p>
+
+- 📊 **GitHub State Chart** <img src="https://raw.githubusercontent.com/rzashakeri/beautify-github-profile/master/state.png" alt="GitHub State" width="400"/>
+- 🖥 **Terminal Animation** _(hover for fun)_ <img src="https://raw.githubusercontent.com/rzashakeri/beautify-github-profile/master/terminal.gif" alt="Terminal" width="400"/>
+- 🚀 **Profile View Counter**
+  ![Hits](https://raw.githubusercontent.com/rzashakeri/beautify-github-profile/master/cover-repo.jpg)
+
+</details>
+
+---
+
 _Profile last updated: 27 May 2025_
